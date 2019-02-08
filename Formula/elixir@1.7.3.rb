@@ -26,8 +26,7 @@ class ElixirAT173 < Formula
   homepage "https://elixir-lang.org/"
   url "https://github.com/elixir-lang/elixir/archive/v1.7.3.tar.gz"
   version "1.7.3"
-  sha256 ""
-
+  sha256 "c9beabd05e820ee83a56610cf2af3f34acf3b445c8fabdbe98894c886d2aa28e"
   head "https://github.com/elixir-lang/elixir.git"
 
   bottle do
