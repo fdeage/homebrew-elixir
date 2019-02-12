@@ -21,7 +21,7 @@ class Erlang19Requirement < Requirement
   end
 end
 
-class ElixirAT173 < Formula
+class Elixir < Formula
   desc "A dynamic, functional language designed for building scalable and maintainable applications, built on Erlang VM"
   homepage "https://elixir-lang.org/"
   url "https://github.com/elixir-lang/elixir/archive/v1.7.3.tar.gz"
